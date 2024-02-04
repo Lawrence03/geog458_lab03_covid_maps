@@ -7,13 +7,17 @@ This map project leverages COVID-19 case and death data from 2020, originally co
 ## Map 1: Choropleth Map of COVID-19 Case Rates
 
 ![Screenshot](./imgs/img1.png)
+
 [Link to the map](https://lawrence03.github.io/geog458_lab03_covid_maps/map1.html)
+
 Primary function: click on a point to display a popup including the county name, case rate, case count and death count.
 
 ## Map 2: Thematic Map of COVID-19 Case Counts
 
 ![Screenshot](./imgs/img2.png)
+
 [Link to the map](https://lawrence03.github.io/geog458_lab03_covid_maps/map2.html)
+
 Primary function: click on a point to display a popup including the county name, case count and death count.
 
 ## Libraries in use
