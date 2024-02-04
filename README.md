@@ -1,10 +1,20 @@
-# GEOG 480 Lab 3: Web Map Application
+# GEOG 480 Lab 3: Web Map Application / COVID Maps
 
 ## Introduction
 
-## Map 1
+This map project leverages COVID-19 case and death data from 2020, originally compiled by The New York Times, with population data from the 2018 ACS 5-year estimates, all at the county level. It includes processed data to calculate case rates per thousand residents, using U.S. county boundary shapefiles from the U.S. Census Bureau. The project culminates in the creation of two thematic maps: a choropleth map displaying COVID-19 rates and a proportional symbols map showing case counts.
 
-## Map 2
+## Map 1: Choropleth Map of COVID-19 Case Rates
+
+![Screenshot](./imgs/img1.png)
+[Link to the map](https://lawrence03.github.io/geog458_lab03_covid_maps/map1.html)
+Primary function: click on a point to display a popup including the county name, case rate, case count and death count.
+
+## Map 2: Thematic Map of COVID-19 Case Counts
+
+![Screenshot](./imgs/img2.png)
+[Link to the map](https://lawrence03.github.io/geog458_lab03_covid_maps/map2.html)
+Primary function: click on a point to display a popup including the county name, case count and death count.
 
 ## Libraries in use
 
