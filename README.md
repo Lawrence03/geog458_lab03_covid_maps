@@ -1,4 +1,4 @@
-# GEOG 480 Lab 3: Web Map Application / COVID Maps
+# GEOG 458 Lab 3: Web Map Application / COVID Maps
 
 ## Introduction
 
